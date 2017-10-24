@@ -1,4 +1,4 @@
-package song.com.cn.myapplication;
+package song.com.cn.music;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -9,12 +9,13 @@ import android.widget.TextView;
 
 import java.util.List;
 
-/**
- * @author lixiangsong
- * @date 创建时间 : 2017/10/24
- * @Description:
- */
+import song.com.cn.myapplication.R;
 
+/**
+* @date :2017/10/24
+* @author lixiang
+* @Description:
+*/
 public class MyReclerViewAdapter extends RecyclerView.Adapter<MyReclerViewAdapter.MyViewHolder> {
     private Context mContext;
     private LayoutInflater inflate;

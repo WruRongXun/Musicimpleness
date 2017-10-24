@@ -1,13 +1,13 @@
-package song.com.cn.myapplication;
+package song.com.cn.music;
 
 import android.os.Parcel;
 import android.os.Parcelable;
 
 /**
- * @author lixiangsong
- * @date 创建时间 : 2017/10/23
- * @Description:
- */
+* @date :2017/10/24
+* @author lixiang
+* @Description:
+*/
 
 public class MusicInfo implements Parcelable {
     private long id;
