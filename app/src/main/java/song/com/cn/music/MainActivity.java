@@ -1,4 +1,4 @@
-package song.com.cn.myapplication;
+package song.com.cn.music;
 
 import android.Manifest;
 import android.content.pm.PackageManager;
