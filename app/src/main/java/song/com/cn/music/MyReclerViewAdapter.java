@@ -9,8 +9,6 @@ import android.widget.TextView;
 
 import java.util.List;
 
-import song.com.cn.myapplication.R;
-
 /**
 * @date :2017/10/24
 * @author lixiang
